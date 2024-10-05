@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://puedt.github.io/XGl/sitemap.XGl.gz
